@@ -6,7 +6,7 @@
 
     <groupId>eu.europeanstudentcard</groupId>
     <artifactId>escn-validator-client</artifactId>
-    <version>0.0.1</version>
+    <version>1.1.0</version>
     <packaging>jar</packaging>
 
     <name>escn-validator-client</name>
@@ -75,7 +75,6 @@
 
     <profiles>
         <profile>
-            <!-- required, used in .github/workflows/sonatype-publish.yml -->
             <id>sonatypeDeploy</id>
             <build>
                 <plugins>
