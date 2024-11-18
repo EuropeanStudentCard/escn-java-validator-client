@@ -6,15 +6,15 @@
 
     <groupId>eu.europeanstudentcard</groupId>
     <artifactId>escn-validator-client</artifactId>
-    <version>1.1.0</version>
+    <version>1.1.1</version>
     <packaging>jar</packaging>
 
     <name>escn-validator-client</name>
     <description>ESCN Client is used to validate European Student Card Number (ESCN) for the "european student card" project by calling esc-router escn validation endpoint.</description>
-    <url>http://europeanstudentcard.eu</url>
+    <url>https://github.com/EuropeanStudentCard/escn-java-validator-client</url>
     <organization>
         <name>European Student Card</name>
-        <url>http://europeanstudentcard.eu</url>
+        <url>https://github.com/EuropeanStudentCard</url>
     </organization>
     <licenses>
         <license>
